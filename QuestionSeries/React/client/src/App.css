@@ -1,0 +1,15 @@
+/*css는 (1) css를 html에 삽입 (2) html 코드가 있는 파일에 정리 (3) css 코드만 따로 작성 하는 방법이 있다*/
+div {
+  background-color: rgb(162,127,243);
+  color : rgb(255,255,255);
+  padding: 40px;
+  font-family : 고딕;
+  text-align: center;
+}
+
+h1 {
+  color : white;
+  background-color: #2EFB2E;
+  padding :10px;
+  font-family: 궁서;
+}
